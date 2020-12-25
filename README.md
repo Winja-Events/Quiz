@@ -1,5 +1,5 @@
 # Quiz
-Prepare, before you play... #WinjaCTF2021
+Prepare, before you play the final game... #WinjaCTF2021
 
 1. To extract absolute URLs from source code, which of the following regular expressions **cannot** be used?
 
@@ -13,8 +13,8 @@ Prepare, before you play... #WinjaCTF2021
 
     ![](image/Quiz1.png)
 
-    **Answer:** #4
-    **Winner:** [Shivam Saraswat](https://twitter.com/thecybersapien)
+    **Answer:** #4 <br/>
+    **Winner:** [Shivam Saraswat](https://twitter.com/thecybersapien) <br/>
     **Write-up:** 
     * https://cybersapien.medium.com/winja-ctf-extract-absolute-url-bd71cb14e4d3
     * https://riddhi-shree.medium.com/regular-expression-winjactf2021-fb3f48395910

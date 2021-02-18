@@ -89,3 +89,16 @@ Prepare, before you play the final game... #WinjaCTF2021
     * [Ashwin Singh](https://twitter.com/_H4cKAI_)
 
     ---
+
+7. Talking Bots
+
+    ![Quiz7](image/Quiz7.png)
+
+    **Solution Write-up:**
+    * https://hackmd.io/@15grass/Sy9FXKWZ_
+
+    **Winner:**
+    * [Ruturaj Mohite](https://twitter.com/grassfrui7)
+
+    ---
+    
